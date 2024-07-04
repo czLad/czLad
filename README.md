@@ -27,12 +27,12 @@
   <a href="https://linkedin.com/in/min-phone-myat-zaw" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://czLad.github.io" >
+  <a href="https://github.com/czLad" >
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"  /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
- <hr/>
+
 <!--
 **czLad/czLad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

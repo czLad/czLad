@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=czLad.czLad" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Luckiest Guy&size=30&center=true&vCenter=true&&color=528AAE&width=500&height=70&duration=4200&lines=Hi+There!+👋;+I'm+Min+Phone+Myat+Zaw+(Zac)!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font="Luckiest Guy"&size=30&center=true&vCenter=true&&color=528AAE&width=500&height=70&duration=4200&lines=Hi+There!+👋;+I'm+Min+Phone+Myat+Zaw+(Zac)!;" />
 </h1>
 
 <!--

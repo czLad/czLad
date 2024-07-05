@@ -16,7 +16,7 @@
 </head>
 <body>
     <h1 align="center" class="italic-text">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Lobster&size=35&center=true&vCenter=true&&color=528AAE&width=500&height=70&duration=3900&lines=HELLO+THERE!+👋;+I'M+MIN+PHONE+MYAT+ZAW+(ZAC)!;" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Permanent+Marker&size=28&center=true&vCenter=true&&color=528AAE&width=500&height=70&duration=3900&lines=HELLO+THERE!+👋;+I'M+MIN+PHONE+MYAT+ZAW+(ZAC)!;" />
     </h1>
 </body>
 </html>

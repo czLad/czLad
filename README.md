@@ -38,8 +38,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,c,python,typescript,react,html,css,vscode,github,figma,bootstrap,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,mysql,postgresql,java,nextjs,ionic,arduino,electron" /><br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="Ionic" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,mysql,postgresql,java,nextjs,arduino,electron" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="Ionic" width="40" height="40" /><br>
 </div>
 
 <br/>

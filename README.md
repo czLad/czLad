@@ -46,7 +46,7 @@
 <hr/>
 
 <div align="center">
-  <h2> My Work Examples </h2>
+  <h2>💻 My Work Examples 💻</h2>
   <br>
   <picture>
   <source

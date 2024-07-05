@@ -1,23 +1,36 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=czLad.czLad" />
-<!--
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Permanent+Marker&size=28&center=true&vCenter=true&&color=528AAE&width=500&height=70&duration=3900&lines=HELLO+THERE!+👋;+I'M+MIN+PHONE+MYAT+ZAW+(ZAC)!;" />
-</h1>
--->
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!--     <style>
-        .italic-text {
-            font-style: italic;
+    <style>
+        @keyframes typing {
+            from { width: 0; }
+            to { width: 100%; }
         }
-    </style> -->
+
+        @keyframes blink-caret {
+            from, to { border-color: transparent; }
+            50% { border-color: black; }
+        }
+
+        .typing-animation {
+            font-family: 'Pacifico', cursive; /* Use a bold, italic-like font */
+            font-size: 35px;
+            color: #528AAE;
+            white-space: nowrap;
+            overflow: hidden;
+            border-right: .15em solid black;
+            width: 0;
+            animation: typing 4s steps(40, end), blink-caret .75s step-end infinite;
+        }
+    </style>
 </head>
 <body>
-    <h1 align="center" class="italic-text">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Permanent+Marker&size=28&center=true&vCenter=true&&color=528AAE&width=500&height=70&duration=3900&lines=HELLO+THERE!+👋;+I'M+MIN+PHONE+MYAT+ZAW+(ZAC)!;" />
-    </h1>
+    <div align="center">
+        <span class="typing-animation">HELLO THERE! 👋 I'M MIN PHONE MYAT ZAW (ZAC)!</span>
+    </div>
 </body>
 </html>
 

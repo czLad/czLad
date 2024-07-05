@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=czLad.czLad" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Italianno&size=29&center=true&vCenter=true&&color=528AAE&width=500&height=70&duration=3900&lines=HELLO+THERE!+👋;+I'M+MIN+PHONE+MYAT+ZAW+(ZAC)!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Homemade+Apple&size=29&center=true&vCenter=true&&color=528AAE&width=500&height=70&duration=3900&lines=HELLO+THERE!+👋;+I'M+MIN+PHONE+MYAT+ZAW+(ZAC)!;" />
 </h1>
 
 <h3 align="center">An enthusiastic software engineer and entreprenuer from Burma</h3>

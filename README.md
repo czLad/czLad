@@ -61,11 +61,12 @@
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
-
-  </picture> -->
+ <!--
+  </picture> 
+  -->
 
   
-  <a href="https://github.com/czLad/cs8_finalProject_SQL_Database">
+  <!--<a href="https://github.com/czLad/cs8_finalProject_SQL_Database">-->
   <img src = "https://github.com/czLad/czLad/assets/111596851/195b7761-953c-4d6c-b534-cd194110b8d7" width="256" height="192" alt="SQL create gif"/>
   <br/><br/><br/>
 </div>

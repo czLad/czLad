@@ -47,28 +47,12 @@
 
 <div align="center">
   <h2>💻 My Work Examples 💻</h2>
-<!--   <br>
-  <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/czLad/czLad/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/czLad/czLad/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
- <!--
-  </picture> 
-  -->
-
-  
-<a href="https://github.com/czLad/cs8_finalProject_SQL_Database">
-  <img src="https://github.com/czLad/czLad/assets/111596851/195b7761-953c-4d6c-b534-cd194110b8d7" alt="SQL create gif" width="256" height="192"/>
-</a>
+  <a href="https://github.com/czLad/cs8_finalProject_SQL_Database">
+      <img src="https://github.com/czLad/czLad/assets/111596851/195b7761-953c-4d6c-b534-cd194110b8d7" alt="SQL create gif" width="500" height="350"/>
+  </a>
+  <a href="https://github.com/czLad/cs8_finalProject_SQL_Database">
+      <img src="https://github.com/czLad/czLad/assets/111596851/195b7761-953c-4d6c-b534-cd194110b8d7" alt="SQL create gif" width="256" height="192"/>
+  </a>
 
 <hr/>
 

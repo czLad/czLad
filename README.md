@@ -66,8 +66,9 @@
   -->
 
   
-  [![SQL create gif](https://github.com/czLad/czLad/assets/111596851/195b7761-953c-4d6c-b534-cd194110b8d7)](https://github.com/czLad/cs8_finalProject_SQL_Database)
-</div>
+<a href="https://github.com/czLad/cs8_finalProject_SQL_Database">
+  <img src="https://github.com/czLad/czLad/assets/111596851/195b7761-953c-4d6c-b534-cd194110b8d7" alt="SQL create gif" width="256" height="192"/>
+</a>
 
 <hr/>
 

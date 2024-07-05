@@ -62,7 +62,7 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
   </picture>
-  <br/><br/>
+  <br/><br/><br/>
 </div>
 
 <hr/>

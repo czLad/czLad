@@ -9,12 +9,10 @@
             from { width: 0; }
             to { width: 100%; }
         }
-
         @keyframes blink-caret {
             from, to { border-color: transparent; }
             50% { border-color: black; }
         }
-
         .typing-animation {
             font-family: 'Pacifico', cursive; /* Use a bold, italic-like font */
             font-size: 35px;

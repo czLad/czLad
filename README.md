@@ -32,6 +32,17 @@
   </a>
 </div>
 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=c++,c,nodejs,python,typescript,javascript,express,firebase,mongodb,sql,mysql,postgresql,java,nextjs,react,ionicreact,arduino" /><br>
+</div>
+
+<br/>
+<hr/>
 
 <!--
 **czLad/czLad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

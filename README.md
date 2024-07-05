@@ -1,36 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=czLad.czLad" />
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        @keyframes typing {
-            from { width: 0; }
-            to { width: 100%; }
-        }
-        @keyframes blink-caret {
-            from, to { border-color: transparent; }
-            50% { border-color: black; }
-        }
-        .typing-animation {
-            font-family: 'Pacifico', cursive; /* Use a bold, italic-like font */
-            font-size: 35px;
-            color: #528AAE;
-            white-space: nowrap;
-            overflow: hidden;
-            border-right: .15em solid black;
-            width: 0;
-            animation: typing 4s steps(40, end), blink-caret .75s step-end infinite;
-        }
-    </style>
-</head>
-<body>
-    <div align="center">
-        <span class="typing-animation">HELLO THERE! 👋 I'M MIN PHONE MYAT ZAW (ZAC)!</span>
-    </div>
-</body>
-</html>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Luckiest+Guy&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
 
 <h3 align="center">An enthusiastic software engineer and entreprenuer from Burma</h3>
 

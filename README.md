@@ -54,7 +54,7 @@
 
   <br>
   <a href="https://github.com/PCC-Forum-App/React-Video-App">
-      <img src="https://github.com/czLad/czLad/assets/111596851/d36dc586-56e2-4ee8-b6d8-275896d427a4" alt="Knowledge Nexus" width="300" height="186"/>
+      <img src="https://github.com/czLad/czLad/assets/111596851/d36dc586-56e2-4ee8-b6d8-275896d427a4" alt="Knowledge Nexus" width="310" height="186"/>
   </a><a href="https://github.com/czLad/cs3a_finalProject_GraphingCalculator">
       <img src="https://github.com/czLad/czLad/assets/111596851/ca3fe13e-8277-4e0c-a5c2-4898ef24b2c3" alt="Graphing Calculator" width="232" height="186"/>
   </a><a href="https://github.com/czLad/cs2_finalProject_whackAMole">

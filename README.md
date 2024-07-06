@@ -60,12 +60,12 @@
   </a><a href="https://github.com/czLad/cs8_finalProject_SQL_Database">
       <img src="https://github.com/czLad/czLad/assets/111596851/720f1764-401c-4d3f-b21b-d04be07c5c35" alt="SQL error gif" width="250" height="100"/></a>
   <a href="https://github.com/czLad/cs3a_finalProject_GraphingCalculator">
-      <img src="https://github.com/czLad/czLad/assets/111596851/ca3fe13e-8277-4e0c-a5c2-4898ef24b2c3" alt="Graphing Calculator" width="150" height="120"/>
+      <img src="https://github.com/czLad/czLad/assets/111596851/ca3fe13e-8277-4e0c-a5c2-4898ef24b2c3" alt="Graphing Calculator" width="200" height="160"/>
   </a><a href="https://github.com/czLad/cs2_finalProject_whackAMole">
-      <img src="https://github.com/czLad/czLad/assets/111596851/3dac8d1b-0269-4668-b730-859efde5867a" alt="Whack A Mole 1" width="150" height="120"/>
+      <img src="https://github.com/czLad/czLad/assets/111596851/3dac8d1b-0269-4668-b730-859efde5867a" alt="Whack A Mole 1" width="200" height="160"/>
   </a>
   <a href="https://github.com/PCC-Forum-App/React-Video-App">
-      <img src="https://github.com/czLad/czLad/assets/111596851/d36dc586-56e2-4ee8-b6d8-275896d427a4" alt="Knowledge Nexus" width="200" height="120"/>
+      <img src="https://github.com/czLad/czLad/assets/111596851/d36dc586-56e2-4ee8-b6d8-275896d427a4" alt="Knowledge Nexus" width="250" height="160"/>
   </a>
   
 </div>

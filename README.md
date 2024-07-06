@@ -58,9 +58,15 @@
   <a href="https://github.com/czLad/cs8_finalProject_SQL_Database">
       <img src="https://github.com/czLad/czLad/assets/111596851/0b4e7538-e469-46a7-b3aa-57713005d1e4" alt="SQL select gif" width="300" height="130"/>
   </a><a href="https://github.com/czLad/cs8_finalProject_SQL_Database">
-      <img src="https://github.com/czLad/czLad/assets/111596851/720f1764-401c-4d3f-b21b-d04be07c5c35" alt="SQL error gif" width="300" height="130"/>
-  </a>  
-    
+      <img src="https://github.com/czLad/czLad/assets/111596851/720f1764-401c-4d3f-b21b-d04be07c5c35" alt="SQL error gif" width="300" height="130"/></a>
+  <a href="https://github.com/czLad/cs3a_finalProject_GraphingCalculator">
+      <img src="https://github.com/czLad/czLad/assets/111596851/ca3fe13e-8277-4e0c-a5c2-4898ef24b2c3" alt="Graphing Calculator" width="300" height="240"/>
+  </a><a href="https://github.com/czLad/cs2_finalProject_whackAMole">
+      <img src="https://github.com/czLad/czLad/assets/111596851/3dac8d1b-0269-4668-b730-859efde5867a" alt="Whack A Mole 1" width="150" height="120"/>
+  </a><a href="https://github.com/czLad/cs2_finalProject_whackAMole">
+      <img src="https://github.com/czLad/czLad/assets/111596851/23499199-73e6-498b-a32a-ff46e0cad866" alt="Whack A Mole 2" width="150" height="120"/>
+  </a>
+  
 </div>
 
 <hr/>

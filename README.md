@@ -1,3 +1,5 @@
+
+https://github.com/czLad/czLad/assets/111596851/c5d51911-cc81-42ab-b771-44b34bc92076
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=czLad.czLad" />
 
 <h1 align="center">
@@ -30,6 +32,10 @@
   <a href="https://github.com/czLad" >
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"  target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+
+
+
+
 </div>
 
  <hr/>
@@ -63,6 +69,9 @@
       <img src="https://github.com/czLad/czLad/assets/111596851/ca3fe13e-8277-4e0c-a5c2-4898ef24b2c3" alt="Graphing Calculator" width="300" height="240"/>
   </a><a href="https://github.com/czLad/cs2_finalProject_whackAMole">
       <img src="https://github.com/czLad/czLad/assets/111596851/3dac8d1b-0269-4668-b730-859efde5867a" alt="Whack A Mole 1" width="300" height="240"/>
+  </a>
+  <a href="https://github.com/PCC-Forum-App/React-Video-App">
+      <img src="https://github.com/czLad/czLad/assets/111596851/d36dc586-56e2-4ee8-b6d8-275896d427a4" alt="Knowledge Nexus" width="400" height="225"/>
   </a>
   
 </div>

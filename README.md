@@ -71,7 +71,7 @@ https://github.com/czLad/czLad/assets/111596851/c5d51911-cc81-42ab-b771-44b34bc9
       <img src="https://github.com/czLad/czLad/assets/111596851/3dac8d1b-0269-4668-b730-859efde5867a" alt="Whack A Mole 1" width="300" height="240"/>
   </a>
   <a href="https://github.com/PCC-Forum-App/React-Video-App">
-      <img src="https://github.com/czLad/czLad/assets/111596851/d36dc586-56e2-4ee8-b6d8-275896d427a4" alt="Knowledge Nexus" width="400" height="225"/>
+      <img src="https://github.com/czLad/czLad/assets/111596851/d36dc586-56e2-4ee8-b6d8-275896d427a4" alt="Knowledge Nexus" width="400" height="240"/>
   </a>
   
 </div>

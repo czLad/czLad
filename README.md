@@ -57,7 +57,7 @@
       <img src="https://github.com/czLad/czLad/assets/111596851/195b7761-953c-4d6c-b534-cd194110b8d7" alt="SQL create gif" width="400" height="120"/>
   </a> -->
   <a href="https://github.com/czLad/cs8_finalProject_SQL_Database">
-      <img src="https://github.com/czLad/czLad/assets/111596851/7699ae38-14fb-4f58-80ff-12b4aa7902e5" alt="SQL insert gif" width="400" height="120"/>
+      <img src="https://github.com/czLad/czLad/assets/111596851/7699ae38-14fb-4f58-80ff-12b4aa7902e5" alt="SQL insert gif" width="250" height="75"/>
   </a>
   <a href="https://github.com/czLad/cs8_finalProject_SQL_Database">
       <img src="https://github.com/czLad/czLad/assets/111596851/0b4e7538-e469-46a7-b3aa-57713005d1e4" alt="SQL select gif" width="300" height="130"/>

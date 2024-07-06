@@ -1,5 +1,3 @@
-
-https://github.com/czLad/czLad/assets/111596851/c5d51911-cc81-42ab-b771-44b34bc92076
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=czLad.czLad" />
 
 <h1 align="center">

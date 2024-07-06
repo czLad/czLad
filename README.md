@@ -60,8 +60,7 @@
   </a>
   <a href="https://github.com/PCC-Forum-App/React-Video-App">
       <img src="https://github.com/czLad/czLad/assets/111596851/d36dc586-56e2-4ee8-b6d8-275896d427a4" alt="Knowledge Nexus" width="270" height="162"/>
-  </a>
-  <a href="https://github.com/czLad/cs8_finalProject_SQL_Database">
+  </a><a href="https://github.com/czLad/cs8_finalProject_SQL_Database">
       <img src="https://github.com/czLad/czLad/assets/111596851/0b4e7538-e469-46a7-b3aa-57713005d1e4" alt="SQL select gif" width="290" height="116"/>
   </a><a href="https://github.com/czLad/cs8_finalProject_SQL_Database">
       <img src="https://github.com/czLad/czLad/assets/111596851/720f1764-401c-4d3f-b21b-d04be07c5c35" alt="SQL error gif" width="290" height="116"/>

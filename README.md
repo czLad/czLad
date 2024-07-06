@@ -53,16 +53,12 @@
   <h2>💻 My Work Examples 💻</h2>
 
   <br>
-<!--   <a href="https://github.com/czLad/cs8_finalProject_SQL_Database">
-      <img src="https://github.com/czLad/czLad/assets/111596851/195b7761-953c-4d6c-b534-cd194110b8d7" alt="SQL create gif" width="400" height="120"/>
-  </a> -->
   <a href="https://github.com/czLad/cs8_finalProject_SQL_Database">
       <img src="https://github.com/czLad/czLad/assets/111596851/7699ae38-14fb-4f58-80ff-12b4aa7902e5" alt="SQL insert gif" width="250" height="75"/>
-  </a>
-  <a href="https://github.com/czLad/cs8_finalProject_SQL_Database">
-      <img src="https://github.com/czLad/czLad/assets/111596851/0b4e7538-e469-46a7-b3aa-57713005d1e4" alt="SQL select gif" width="300" height="130"/>
   </a><a href="https://github.com/czLad/cs8_finalProject_SQL_Database">
-      <img src="https://github.com/czLad/czLad/assets/111596851/720f1764-401c-4d3f-b21b-d04be07c5c35" alt="SQL error gif" width="300" height="130"/></a>
+      <img src="https://github.com/czLad/czLad/assets/111596851/0b4e7538-e469-46a7-b3aa-57713005d1e4" alt="SQL select gif" width="250" height="100"/>
+  </a><a href="https://github.com/czLad/cs8_finalProject_SQL_Database">
+      <img src="https://github.com/czLad/czLad/assets/111596851/720f1764-401c-4d3f-b21b-d04be07c5c35" alt="SQL error gif" width="250" height="100"/></a>
   <a href="https://github.com/czLad/cs3a_finalProject_GraphingCalculator">
       <img src="https://github.com/czLad/czLad/assets/111596851/ca3fe13e-8277-4e0c-a5c2-4898ef24b2c3" alt="Graphing Calculator" width="300" height="240"/>
   </a><a href="https://github.com/czLad/cs2_finalProject_whackAMole">

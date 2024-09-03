@@ -16,7 +16,7 @@
 
 💬 Ask me about **C++, Data Structures, React, Firebase, Typescript... or anything [here](https://github.com/czLad/czLad/issues)**
 
-💁🏻‍♂️ Visit my **Portfolio website [here](https://czlad.github.io/Min-Phone-Myat-Zaw---Portfolio-Website)**
+💁🏻‍♂️ Visit my **Portfolio website [here](https://minphonemyatzaw.com/)**
 
 ⚡ Fun fact **Spiderman's middle name is Benjamin**
 
@@ -29,7 +29,7 @@
   <a href="https://linkedin.com/in/min-phone-myat-zaw" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://czlad.github.io/Min-Phone-Myat-Zaw---Portfolio-Website" >
+  <a href="https://minphonemyatzaw.com/" >
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"  target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 

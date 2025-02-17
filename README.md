@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **NASA JPL'S Lunar Trailblazer**
  
- 🌱 I’m currently learning **Nextjs, Arduino, JAVA**
+ 🌱 I’m currently learning **Nextjs, Arduino, x86 Assembly Language**
 
 💬 Ask me about **C++, Data Structures, React, Firebase, Typescript... or anything [here](https://github.com/czLad/czLad/issues)**
 

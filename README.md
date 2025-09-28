@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **NASA JPL'S Lunar Trailblazer**
+ 🔭 I’m currently working on **NASA Exoplanet Science Institute's Keck Observatory Archive**
  
  🌱 I’m currently learning **Nextjs, Arduino, x86 Assembly Language**
 
